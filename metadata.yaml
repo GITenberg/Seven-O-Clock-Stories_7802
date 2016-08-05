@@ -1,0 +1,34 @@
+_repo: Seven-O-Clock-Stories_7802
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anderson, Robert Gordon
+    birthdate: 1881
+    gutenberg_agent_id: '2495'
+    url: http://www.gutenberg.org/2009/agents/2495
+description: Short stories of everyday doings on a farm in all of which the same ""three
+  happy children"" appear. Simpy and naturally told. For children from five to nine
+  years.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The three happy children -- The playmates of the three happy children
+  -- Noisy folks -- Just before supper -- The Toyman -- The willow whistle -- Mr.
+  Scarecrow -- The prettiest fairy story in the world -- Another true fairy story
+  -- The happy ending of the oriole's story -- Mother Hen and Robber Hawk -- About
+  Duckie the stepchild and the little ship -- The tall enemy -- The sleigh and the
+  tiny reindeer -- Jack Frost and the Man-in-the-Moon -- Sloshin' -- The circus comes
+  to town -- The jolly clown -- Wienerwurst's brave battle -- The lions of the north
+  wind.
+title: Seven O'Clock Stories
+url: http://www.gutenberg.org/ebooks/7802
