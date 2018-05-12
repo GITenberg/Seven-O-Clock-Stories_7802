@@ -1,5 +1,8 @@
 _repo: Seven-O-Clock-Stories_7802
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anderson, Robert Gordon
@@ -9,6 +12,8 @@ creator:
 description: Short stories of everyday doings on a farm in all of which the same ""three
   happy children"" appear. Simpy and naturally told. For children from five to nine
   years.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7802#Seven-O-Clock-Stories
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
